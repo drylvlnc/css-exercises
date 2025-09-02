@@ -1,0 +1,19 @@
+/* odd numbers : light red background, fallback fonts = 'Verdana', 'DejaVu Sans', 'san-serif' */
+.odd {
+    background-color: lightpink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+/* second element : blue text 36px */
+#second {
+    color: blue;
+    font-size: 36px;
+}
+/* third element : 24px */
+.adjust-font-size {
+    font-size: 24px;
+ }
+/* fourth element : light green background, bold, 24px */
+#fourth {
+    background-color: lightgreen;
+    font-weight: bold;
+}
